@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ide config file
+.idea
+
+# virtualenv
+new_venv
+venv
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.dylib
